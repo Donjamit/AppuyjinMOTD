@@ -1,1 +1,1 @@
-# CapuchinMOTD
+# AppuyjinMOTD
